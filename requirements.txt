@@ -5,6 +5,7 @@ anytree
 apscheduler
 aioaria2
 aioqbt
+cachetools==5.5.2
 cloudscraper
 dnspython
 ElectroCrypto
